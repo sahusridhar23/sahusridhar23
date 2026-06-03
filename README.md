@@ -26,6 +26,57 @@ Exploring AI systems, machine learning, deep learning, and large language models
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 Complaint Management Portal
+
+A full-stack web application designed to streamline complaint registration, tracking, and management through a Java Servlet backend and PostgreSQL database.
+
+**Highlights**
+
+* Complaint registration and tracking system
+* Complete CRUD functionality
+* JSON-based communication using Gson
+* PostgreSQL integration with JDBC
+* Deployment using Apache Tomcat
+* Clean separation between frontend and backend
+
+**Tech Stack**
+Java • Jakarta Servlets • JDBC • PostgreSQL • Gson • HTML • CSS • JavaScript • Apache Tomcat
+
+🔗 Repository: https://github.com/sahusridhar23/Complaint_portal
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏠 House Price Predictor
+
+An end-to-end machine learning application that predicts house prices using historical housing data and an interactive Streamlit interface.
+
+**Highlights**
+
+* Data preprocessing and feature engineering
+* Categorical feature encoding
+* Model training and evaluation
+* Real-time price prediction
+* Interactive Streamlit web application
+* Machine learning workflow deployment
+
+**Tech Stack**
+Python • Pandas • NumPy • Scikit-Learn • Streamlit • Matplotlib
+
+🔗 Repository: https://github.com/sahusridhar23/ML-projects
+
+</td>
+</tr>
+</table>
+
+
 # 📊 GitHub Stats
 
 <p align="center">
