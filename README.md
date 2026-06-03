@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Building intelligent solutions with Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models.
+Exploring AI systems, machine learning, deep learning, and large language models through research, open source, and real-world projects.
 
 * 🔭 Currently strengthening my understanding of AI, ML, DL, and modern generative AI systems.
 * 🌱 Learning through hands-on projects, open-source contributions, and continuous exploration.
