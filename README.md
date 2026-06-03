@@ -38,6 +38,12 @@ Building intelligent solutions with Artificial Intelligence, Machine Learning, D
   <img src="https://streak-stats.demolab.com/?user=sahusridhar23&theme=radical&hide_border=false" width="80%" />
 </p>
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahusridhar23/sahusridhar23/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/sridhar--sahu)
