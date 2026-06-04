@@ -63,7 +63,6 @@ An end-to-end machine learning application that predicts house prices using hist
 * Data preprocessing and feature engineering
 * Categorical feature encoding
 * Model training and evaluation
-* Real-time price prediction
 * Interactive Streamlit web application
 * Machine learning workflow deployment
 
